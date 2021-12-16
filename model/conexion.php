@@ -7,10 +7,10 @@
 
        # Atributos de la clase conexion
         private $mysqli = '';
-        private $usuario = 'admin';
-        private $clave = 'admin';
-        private $server = 'localhost:3306';
-        private $db = 'login';
+        private $usuario = 'l17540293';
+        private $clave = 'secretdoor99';
+        private $server = 'localhost';
+        private $db = 'l17540293';
 
 
         # Funcion que permite conectarnos a la base de datos
